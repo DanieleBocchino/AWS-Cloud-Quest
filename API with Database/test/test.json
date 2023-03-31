@@ -1,0 +1,7 @@
+{
+  "vehicle": {
+    "id": "1",
+    "available": "true",
+    "type": "scooter"
+  }
+}

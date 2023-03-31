@@ -1,0 +1,13 @@
+,{
+    "Effect":"Allow",
+    "Principal": {
+        "Service": "sns.amazonaws.com"
+    },
+    "Action":"sqs:SendMessage",
+    "Resource":"SQS_QUEUE_ARN",
+    "Condition":{
+        "ArnEquals":{
+            "aws:SourceArn":"SNS_TOPIC_ARN"
+        }
+    }
+}

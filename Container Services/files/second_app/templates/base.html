@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Second-Container-App</title>
+    <link href="{{url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+    <script type=text/javascript src="{{url_for('static', filename='js/bootstrap.min.js') }}"></script>
+  </head>
+  <body>
+    <nav class="navbar navbar-light bg-light">
+      <div class="container-fluid" >
+      <a class="navbar-brand" href="{{url_for('index')}}">
+        Home
+      </a>
+    </div>
+    </nav>
+    <div class="container-fluid">
+    {% block content %}
+    {% endblock %}
+  </div>
+  </body>
+</html>
