@@ -1,2 +1,6 @@
 .*
 !/.gitignore
+venv
+generator.py
+requirements.txt
+
