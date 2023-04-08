@@ -2,12 +2,11 @@
 # API with Database
 
 [![AWS](https://img.shields.io/badge/AWS-100000?style=flat&logo=amazon&logoColor=FFFFFF&labelColor=5C5C5C&color=FF7300)](https://docs.aws.amazon.com/quicksight/latest/user/signing-up.html)
-[![EBS](https://img.shields.io/badge/AWS_EBS-100000?style=flat&logo=amazonebs&logoColor=white&labelColor=494949&color=ED1C24)](https://aws.amazon.com/route53/)
-[![Aurora](https://img.shields.io/badge/AWS_Aurora-100000?style=flat&logo=AmazonRDS&logoColor=white&labelColor=494949&color=527FFF)](https://aws.amazon.com/aurora/)
-[![Backup](https://img.shields.io/badge/AWS_backup-100000?style=flat&logo=awsbackup&logoColor=white&labelColor=494949&color=569A31)](https://aws.amazon.com/vpc/)
-[![EC2](https://img.shields.io/badge/AWS_EC2-100000?style=flat&logo=amazonec2&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/vpc/)
-[![KMS](https://img.shields.io/badge/AWS_KMS-100000?style=flat&logo=awsKMS&logoColor=white&labelColor=494949&color=ED1C24)](https://aws.amazon.com/kms/)
-
+[![EC2](https://img.shields.io/badge/AWS_EC2-100000?style=flat&logo=amazonec2&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/ec2/)
+[![Aurora](https://img.shields.io/badge/AWS_Aurora-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/rds/aurora/)
+[![Backup](https://img.shields.io/badge/AWS_Backup-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/backup/)
+[![KMS](https://img.shields.io/badge/AWS_KMS-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/kms/)
+[![EBS](https://img.shields.io/badge/AWS_EBS-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/ebs/)
 
 This repository contains scripts and configuration files for backing up data on AWS using various services such as Amazon EBS volumes and Aurora Serverless clustering.
 

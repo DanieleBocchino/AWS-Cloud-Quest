@@ -1,10 +1,11 @@
 # Container Services
 
 [![AWS](https://img.shields.io/badge/AWS-100000?style=flat&logo=amazon&logoColor=FFFFFF&labelColor=5C5C5C&color=FF7300)](https://docs.aws.amazon.com/quicksight/latest/user/signing-up.html)
-[![ECR](https://img.shields.io/badge/AWS_ECR-100000?style=flat&logo=amazonecr&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/ecr/)
-[![ECS](https://img.shields.io/badge/AWS_ECS-100000?style=flat&logo=amazonecs&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/ecs/)
-[![Fargate](https://img.shields.io/badge/AWS_Fargate-100000?style=flat&logo=amazonfargate&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/fargate/)
-[![Cloud9](https://img.shields.io/badge/AWS_Cloud9-100000?style=flat&logo=amazonfargate&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/cloud9/)
+[![ECS](https://img.shields.io/badge/AWS_ECS-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/ecs/)
+[![ECR](https://img.shields.io/badge/AWS_ECR-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/ecr/)
+[![Fargate](https://img.shields.io/badge/AWS_Fargate-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/fargate/)
+[![Cloud9](https://img.shields.io/badge/AWS_Cloud9-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/cloud9/)
+
 
 This AWS Quest will guide you through creating a Docker image for an application, creating an ECR repository and pushing the Docker image to it, and deploying the application with ECS and Fargate using the image from Amazon ECR. You will also deploy a second application called my_second_app using Fargate by using the image from Amazon ECR and validate access to the second application.
 

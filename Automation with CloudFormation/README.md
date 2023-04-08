@@ -2,7 +2,8 @@
 # AWS Automation with CloudFormation
 
 [![AWS](https://img.shields.io/badge/AWS-100000?style=flat&logo=amazon&logoColor=FFFFFF&labelColor=5C5C5C&color=FF7300)](https://docs.aws.amazon.com/quicksight/latest/user/signing-up.html)
-[![CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-100000?style=flat&logo=aws&logoColor=white&labelColor=494949&color=ED1C24)](https://aws.amazon.com/cloudformation/)
+[![CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/cloudformation/)
+
 
 This section covers how to create a stack using AWS CloudFormation. In this demonstration, two stacks are created using a sample template. The first stack is created using the tutorial template provided, while the second stack is created using a modified version of the same template.
 

@@ -2,9 +2,10 @@
 # API with Database
 
 [![AWS](https://img.shields.io/badge/AWS-100000?style=flat&logo=amazon&logoColor=FFFFFF&labelColor=5C5C5C&color=FF7300)](https://docs.aws.amazon.com/quicksight/latest/user/signing-up.html)
-[![API Gateway](https://img.shields.io/badge/AWS_Route_53-100000?style=flat&logo=awsgateway&logoColor=white&labelColor=494949&color=ED1C24)](https://aws.amazon.com/route53/)
-[![DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-100000?style=flat&logo=AmazonRDS&logoColor=white&labelColor=494949&color=527FFF)](https://aws.amazon.com/ec2/)
-[![Lambda](https://img.shields.io/badge/AWS_Lambda-100000?style=flat&logo=awslambda&logoColor=white&labelColor=494949&color=569A31)](https://aws.amazon.com/vpc/)
+[![Gateway](https://img.shields.io/badge/AWS_Gateway-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/gateway/)
+[![DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white&labelColor=494949&color=4053D6)](https://aws.amazon.com/dynamodb/)
+[![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=amazonlambda&logoColor=white&labelColor=494949&color=FF9900)](https://aws.amazon.com/lambda/)
+
 
 
 This project is aimed at providing a simple guide to creating a Restful API using Amazon API Gateway and DynamoDB. By the end of this project, you will be able to:

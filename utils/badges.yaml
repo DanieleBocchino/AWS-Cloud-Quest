@@ -1,0 +1,18 @@
+AWS: <a href='https://docs.aws.amazon.com/' target="_blank"><img alt='amazon' src='https://img.shields.io/badge/AWS-100000?style=flat&logo=amazon&logoColor=FFFFFF&labelColor=353535&color=#232F3E'/></a>
+DYNAMODB: <a href='https://aws.amazon.com/dynamodb/' target="_blank"><img alt='dynamo' src='https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white&labelColor=232F3E&color=#4053D6'/></a>
+S3: <a href='https://aws.amazon.com/s3/' target="_blank"><img alt='s3' src='https://img.shields.io/badge/S3-4053D6?style=flat&logo=amazons3&logoColor=white&labelColor=232F3E&color=#569A31'/></a>
+LAMBDA: <a href='https://aws.amazon.com/lambda/' target="_blank"><img alt='lambda' src='https://img.shields.io/badge/Lambda-4053D6?style=flat&logo=awslambda&logoColor=white&labelColor=232F3E&color=#FF9900'/></a>
+AMPLIFY: <a href='https://aws.amazon.com/amplify/' target="_blank"><img alt='amplify' src='https://img.shields.io/badge/Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white&labelColor=232F3E&color=FF9900'/></a>
+FARGATE: <a href='https://aws.amazon.com/fargate/' target="_blank"><img alt='fargate' src='https://img.shields.io/badge/Fargate-4053D6?style=flat&logo=awsfargate&logoColor=white&labelColor=232F3E&color=FF9900'/></a>
+RDS: <a href='https://aws.amazon.com/rds/' target="_blank"><img alt='rds' src='https://img.shields.io/badge/RDS-4053D6?style=flat&logo=amazonrds&logoColor=white&labelColor=232F3E&color=##527FFF'/></a>
+CLOUDFRONT: <a href='https://aws.amazon.com/cloudfront/' target="_blank"><img alt='cloudfront' src='https://img.shields.io/badge/CloudFront-4053D6?style=flat&logo=amazoncloudfront&logoColor=white&labelColor=232F3E&color=#66459B'/></a>
+CLOUDWATCH: <a href='https://aws.amazon.com/cloudwatch/' target="_blank"><img alt='cloudwatch' src='https://img.shields.io/badge/CloudWatch-4053D6?style=flat&logo=amazoncloudwatch&logoColor=white&labelColor=232F3E&color=##FF4F8B'/></a>
+API GATEWAY: <a href='https://aws.amazon.com/api-gateway/' target="_blank"><img alt='api gateway' src='https://img.shields.io/badge/API%20Gateway-4053D6?style=flat&logo=amazonapigateway&logoColor=white&labelColor=232F3E&color=#FF4F8B'/></a>
+EC2: <a href='https://aws.amazon.com/ec2/' target="_blank"><img alt='ec2' src='https://img.shields.io/badge/EC2-4053D6?style=flat&logo=amazonec2&logoColor=white&labelColor=232F3E&color=#FF9900'/></a>
+ECS: <a href='https://aws.amazon.com/ecs/' target="_blank"><img alt='ecs' src='https://img.shields.io/badge/ECS-4053D6?style=flat&logo=amazonecs&logoColor=white&labelColor=232F3E&color=#FF9900'/></a>
+EKS: <a href='https://aws.amazon.com/eks/' target="_blank"><img alt='eks' src='https://img.shields.io/badge/EKS-4053D6?style=flat&logo=amazoneks&logoColor=white&labelColor=232F3E&color=#FF9900'/></a>
+SQS: <a href='https://aws.amazon.com/sqs/' target="_blank"><img alt='sqs' src='https://img.shields.io/badge/SQS-4053D6?style=flat&logo=amazonsqs&logoColor=white&labelColor=232F3E&color=#FF4F8B'/></a>
+SNS: <a href='https://aws.amazon.com/sns/' target="_blank"><img alt='sns' src='https://img.shields.io/badge/SNS-4053D6?style=flat&logo=amazonsns&logoColor=white&labelColor=232F3E&color=#FF4F8B'/></a>
+KINESIS: <a href='https://aws.amazon.com/kinesis/' target="_blank"><img alt='kinesis' src='https://img.shields.io/badge/Kinesis-4053D6?style=flat&logo=amazondynamodb&logoColor=white&labelColor=232F3E&color=#66459B'/></a>
+SES: <a href='https://aws.amazon.com/ses/' target="_blank"><img alt='ses' src='https://img.shields.io/badge/SES-4053D6?style=flat&logo=amazonses&logoColor=white&labelColor=232F3E&color=#FF4F8B'/></a>
+
